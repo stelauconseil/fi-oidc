@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D3ZX4B4V4U.com.stelau.FranceIdentiteOIDC2",
+        "components": [
+          {
+            "/": "/app*",
+            "comment": "Matches any URL with a path that starts with /app*."
+          }
+        ]
+      }
+    ]
+  }
+}
