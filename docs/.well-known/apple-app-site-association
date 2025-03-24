@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "D3ZX4B4V4U.com.stelau.FranceIdentiteOIDC2",
+        "appID": "D3ZX4B4V4U.com.stelau.fi-oidc",
         "components": [
           {
             "/": "/app*",
